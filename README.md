@@ -1,2 +1,2 @@
 # hello-world
-Yet another repo
+Pack my box with five dozen liquor jugs!
