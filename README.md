@@ -1,6 +1,5 @@
 # hello-world
-Hey Humans!
-Generations to come may scarce believe that such a one as this in flesh and blood,
-ever walked upon this earth! 
+Hi,
+This folder has the exercises that I have done to improve my basic Python understanding.
 
 
